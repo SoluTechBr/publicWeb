@@ -1,4 +1,5 @@
 import { Box, Calendar } from "lucide-react";
+import trackeasyImage from "../assets/projects/trackeasy.png";
 
 export function Projects() {
   return (
@@ -12,7 +13,7 @@ export function Projects() {
           <div className="group bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300">
             <div className="relative aspect-video">
               <img
-                src="https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&q=80"
+                src={trackeasyImage}
                 alt="Rastreamento de Pacotes"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               />
