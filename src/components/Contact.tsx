@@ -9,7 +9,9 @@ export function Contact() {
           Estamos prontos para transformar suas ideias em realidade.
         </p>
         <a
-          href="mailto:contato@solutech.dev"
+          href="https://api.whatsapp.com/send?phone=5519988496675"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block bg-blue-600 text-white px-6 md:px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition-colors"
         >
           Entre em contato
