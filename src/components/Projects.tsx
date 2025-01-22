@@ -22,7 +22,7 @@ export function Projects() {
               <div className="flex items-center gap-2 mb-4">
                 <Box className="w-6 h-6 text-blue-600" />
                 <h3 className="text-xl md:text-2xl font-bold">
-                  Rastreador Universal de Pacotes
+                  Trackeasy - Rastreador Universal de Pacotes
                 </h3>
               </div>
               <p className="text-gray-600 dark:text-gray-400 mb-6">
@@ -35,6 +35,11 @@ export function Projects() {
                 <li>✓ Notificações automáticas</li>
                 <li>✓ Interface intuitiva</li>
               </ul>
+              <div className="mt-6">
+                <span className="inline-block px-3 py-1 text-sm text-blue-600 bg-blue-100 dark:bg-blue-900 dark:text-blue-300 rounded-full">
+                  Em desenvolvimento
+                </span>
+              </div>
             </div>
           </div>
 
