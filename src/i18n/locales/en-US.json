@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "Transform your vision into reality",
+    "subtitle": "Drive your growth. Transform challenges into opportunities with our customized technological solutions.",
+    "cta": "Start now"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer complete technological solutions to transform your company",
+    "items": {
+      "customDev": {
+        "title": "Custom Development",
+        "description": "We fully value the client's ideals, transforming their needs into efficient and scalable solutions."
+      },
+      "webApps": {
+        "title": "Web Applications",
+        "description": "Development of modern, responsive web systems optimized for an exceptional experience."
+      },
+      "mobileApps": {
+        "title": "Mobile Applications",
+        "description": "Creation of native and hybrid applications for iOS and Android, focusing on performance and usability."
+      },
+      "cloud": {
+        "title": "Cloud Solutions",
+        "description": "Architecture and implementation of scalable solutions using cloud computing best practices."
+      },
+      "integration": {
+        "title": "System Integration",
+        "description": "We connect different systems and APIs to create complete and efficient solutions for your business."
+      },
+      "security": {
+        "title": "Digital Security",
+        "description": "Implementation of robust security practices to protect your data and applications."
+      },
+      "performance": {
+        "title": "Performance Optimization",
+        "description": "Analysis and performance improvements for existing systems, ensuring maximum efficiency."
+      },
+      "innovation": {
+        "title": "Technological Innovation",
+        "description": "Stay ahead with our innovative solutions that follow market trends."
+      },
+      "automation": {
+        "title": "Process Automation",
+        "description": "We simplify your processes with intelligent solutions to focus on growing your business."
+      }
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "packageTracker": {
+      "title": "Universal Package Tracker",
+      "description": "A complete package tracking solution that integrates all major carriers into a single platform.",
+      "features": [
+        "Real-time tracking",
+        "Multiple carrier support",
+        "Automatic notifications",
+        "Intuitive interface"
+      ]
+    },
+    "barberScheduler": {
+      "title": "Barber Shop Scheduler",
+      "description": "Complete scheduling system for barbershops, optimizing time management and improving customer experience.",
+      "features": [
+        "24/7 online scheduling",
+        "Professional management",
+        "Automatic reminders",
+        "Service history"
+      ],
+      "status": "In development"
+    }
+  },
+  "clients": {
+    "title": "Our Clients",
+    "description": "We are starting our journey and will soon have a list of success stories to share. Be one of the first to be part of our innovation and digital transformation story.",
+    "cta": {
+      "title": "Want to be our next success story?",
+      "description": "Contact us and discover how we can transform your challenges into opportunities."
+    }
+  },
+  "contact": {
+    "title": "Let's talk?",
+    "description": "We're ready to transform your ideas into reality.",
+    "cta": "Contact us"
+  },
+  "header": {
+    "services": "Services",
+    "projects": "Projects",
+    "clients": "Clients",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

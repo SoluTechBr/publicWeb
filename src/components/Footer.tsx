@@ -1,6 +1,9 @@
 import { Code } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export function Footer() {
+  const { t } = useTranslation();
+
   return (
     <footer className="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800">
       <div className="container mx-auto px-4 py-6 md:py-8">
@@ -10,7 +13,7 @@ export function Footer() {
             <span className="font-bold">Solutech</span>
           </div>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            © {new Date().getFullYear()} Solutech. Todos os direitos reservados.
+            © {new Date().getFullYear()} Solutech. {t("footer.rights")}
           </p>
         </div>
       </div>

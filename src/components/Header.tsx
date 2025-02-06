@@ -1,7 +1,10 @@
 import { Code } from "lucide-react";
 import { ThemeToggle } from "./ThemeToggle";
+import { useTranslation } from "react-i18next";
 
 export function Header() {
+  const { t } = useTranslation();
+
   return (
     <header className="fixed w-full bg-white/80 dark:bg-gray-900/80 backdrop-blur-sm z-50 border-b border-gray-200 dark:border-gray-800">
       <div className="container mx-auto px-4 py-4">
@@ -16,25 +19,25 @@ export function Header() {
                 href="#services"
                 className="text-sm md:text-base hover:text-blue-600 transition-colors"
               >
-                Serviços
+                {t("header.services")}
               </a>
               <a
                 href="#projects"
                 className="text-sm md:text-base hover:text-blue-600 transition-colors"
               >
-                Projetos
+                {t("header.projects")}
               </a>
               <a
                 href="#clients"
                 className="text-sm md:text-base hover:text-blue-600 transition-colors"
               >
-                Clientes
+                {t("header.clients")}
               </a>
               <a
                 href="#contact"
                 className="text-sm md:text-base hover:text-blue-600 transition-colors"
               >
-                Contato
+                {t("header.contact")}
               </a>
             </nav>
             <ThemeToggle />

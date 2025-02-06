@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "Transforma tu visión en realidad",
+    "subtitle": "Impulsa tu crecimiento. Transforma los desafíos en oportunidades con nuestras soluciones tecnológicas personalizadas.",
+    "cta": "Empieza ahora"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Ofrecemos soluciones tecnológicas completas para transformar tu empresa",
+    "items": {
+      "customDev": {
+        "title": "Desarrollo Personalizado",
+        "description": "Valoramos totalmente los ideales del cliente, transformando sus necesidades en soluciones eficientes y escalables."
+      },
+      "webApps": {
+        "title": "Aplicaciones Web",
+        "description": "Desarrollo de sistemas web modernos, responsivos y optimizados para una experiencia excepcional."
+      },
+      "mobileApps": {
+        "title": "Aplicaciones Móviles",
+        "description": "Creación de aplicaciones nativas e híbridas para iOS y Android, con foco en rendimiento y usabilidad."
+      },
+      "cloud": {
+        "title": "Soluciones en la Nube",
+        "description": "Arquitectura e implementación de soluciones escalables utilizando las mejores prácticas de cloud computing."
+      },
+      "integration": {
+        "title": "Integración de Sistemas",
+        "description": "Conectamos diferentes sistemas y APIs para crear soluciones completas y eficientes para tu negocio."
+      },
+      "security": {
+        "title": "Seguridad Digital",
+        "description": "Implementación de prácticas robustas de seguridad para proteger tus datos y aplicaciones."
+      },
+      "performance": {
+        "title": "Optimización de Rendimiento",
+        "description": "Análisis y mejoras de rendimiento para sistemas existentes, garantizando máxima eficiencia."
+      },
+      "innovation": {
+        "title": "Innovación Tecnológica",
+        "description": "Mantente adelante con nuestras soluciones innovadoras que siguen las tendencias del mercado."
+      },
+      "automation": {
+        "title": "Automatización de Procesos",
+        "description": "Simplificamos tus procesos con soluciones inteligentes para enfocarte en el crecimiento de tu negocio."
+      }
+    }
+  },
+  "projects": {
+    "title": "Nuestros Proyectos",
+    "packageTracker": {
+      "title": "Rastreador Universal de Paquetes",
+      "description": "Una solución completa para el rastreo de paquetes que integra todos los principales transportistas en una única plataforma.",
+      "features": [
+        "Rastreo en tiempo real",
+        "Soporte para múltiples transportistas",
+        "Notificaciones automáticas",
+        "Interfaz intuitiva"
+      ]
+    },
+    "barberScheduler": {
+      "title": "Agendador de Barbería",
+      "description": "Sistema completo de agendamiento para barberías, optimizando la gestión de horarios y mejorando la experiencia de los clientes.",
+      "features": [
+        "Agendamiento online 24/7",
+        "Gestión de profesionales",
+        "Recordatorios automáticos",
+        "Historial de servicios"
+      ],
+      "status": "En desarrollo"
+    }
+  },
+  "clients": {
+    "title": "Nuestros Clientes",
+    "description": "Estamos iniciando nuestro camino y pronto tendremos una lista de casos de éxito para compartir. Sé uno de los primeros en formar parte de nuestra historia de innovación y transformación digital.",
+    "cta": {
+      "title": "¿Quieres ser nuestro próximo caso de éxito?",
+      "description": "Contáctanos y descubre cómo podemos transformar tus desafíos en oportunidades."
+    }
+  },
+  "contact": {
+    "title": "¿Hablamos?",
+    "description": "Estamos listos para transformar tus ideas en realidad.",
+    "cta": "Contáctanos"
+  },
+  "header": {
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "clients": "Clientes",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}
