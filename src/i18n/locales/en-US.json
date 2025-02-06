@@ -81,7 +81,37 @@
   "contact": {
     "title": "Let's talk?",
     "description": "We're ready to transform your ideas into reality.",
-    "cta": "Contact us"
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter your full name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your email"
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "Enter the message subject"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter your message"
+      },
+      "submit": "Send message",
+      "submitting": "Sending..."
+    },
+    "success": {
+      "title": "Message sent!",
+      "message": "Thank you for contacting us. Our team will get back to you soon.",
+      "back": "Send another message"
+    },
+    "error": {
+      "network-error": "Error sending message. Please check your connection and try again.",
+      "unknown": "An unexpected error occurred. Please try again later.",
+      "Failed": "Failed to send message. Please try again.",
+      "Failed to fetch": "Failed to send message. Please try again."
+    }
   },
   "header": {
     "services": "Services",

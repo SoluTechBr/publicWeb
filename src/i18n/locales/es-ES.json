@@ -81,7 +81,37 @@
   "contact": {
     "title": "¿Hablamos?",
     "description": "Estamos listos para transformar tus ideas en realidad.",
-    "cta": "Contáctanos"
+    "form": {
+      "name": {
+        "label": "Nombre",
+        "placeholder": "Ingresa tu nombre completo"
+      },
+      "email": {
+        "label": "Correo electrónico",
+        "placeholder": "Ingresa tu correo electrónico"
+      },
+      "subject": {
+        "label": "Asunto",
+        "placeholder": "Ingresa el asunto del mensaje"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Ingresa tu mensaje"
+      },
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando..."
+    },
+    "success": {
+      "title": "¡Mensaje enviado!",
+      "message": "Gracias por contactarnos. Nuestro equipo se pondrá en contacto contigo pronto.",
+      "back": "Enviar otro mensaje"
+    },
+    "error": {
+      "network-error": "Error al enviar el mensaje. Por favor, verifica tu conexión e intenta nuevamente.",
+      "unknown": "Ocurrió un error inesperado. Por favor, intenta nuevamente más tarde.",
+      "Failed": "Error al enviar el mensaje. Por favor, intenta nuevamente.",
+      "Failed to fetch": "Error al enviar el mensaje. Por favor, intenta nuevamente."
+    }
   },
   "header": {
     "services": "Servicios",

@@ -81,7 +81,37 @@
   "contact": {
     "title": "Vamos conversar?",
     "description": "Estamos prontos para transformar suas ideias em realidade.",
-    "cta": "Entre em contato"
+    "form": {
+      "name": {
+        "label": "Nome",
+        "placeholder": "Digite seu nome completo"
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "Digite seu e-mail"
+      },
+      "subject": {
+        "label": "Assunto",
+        "placeholder": "Digite o assunto da mensagem"
+      },
+      "message": {
+        "label": "Mensagem",
+        "placeholder": "Digite sua mensagem"
+      },
+      "submit": "Enviar mensagem",
+      "submitting": "Enviando..."
+    },
+    "success": {
+      "title": "Mensagem enviada!",
+      "message": "Agradecemos seu contato. Em breve, nossa equipe entrará em contato com você.",
+      "back": "Enviar outra mensagem"
+    },
+    "error": {
+      "network-error": "Erro ao enviar mensagem. Por favor, verifique sua conexão e tente novamente.",
+      "unknown": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
+      "Failed": "Falha ao enviar mensagem. Por favor, tente novamente.",
+      "Failed to fetch": "Falha ao enviar mensagem. Por favor, tente novamente."
+    }
   },
   "header": {
     "services": "Serviços",
