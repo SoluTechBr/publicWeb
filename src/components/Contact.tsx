@@ -34,7 +34,8 @@ export function Contact() {
       if (response.ok) {
         setSubmitted(true);
       } else {
-        throw new Error("Failed");
+        const errorData = await response.json();
+        throw new Error(errorData.error || "Failed");
       }
     } catch (err) {
       setError(
